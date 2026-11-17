@@ -14,16 +14,16 @@ Small Claude Code skills.
 
 ## Motivations
 
-🤝 **echo.** For anyone who knows what they want but not how to say it, and
+🤝 **[echo](echo/SKILL.md):** For anyone who knows what they want but not how to say it, and
 isn't sure the AI got it. The AI says back what it understood, so you're on
 the same page. (Inspired by *Nonviolent Communication* by Marshall B.
 Rosenberg)
 
-❓ **grill-me.** For when you're not sure you've thought it through, or too
+❓ **[grill-me](grill-me/SKILL.md):** For when you're not sure you've thought it through, or too
 lazy to spell it out. Answer a few questions at a time until nothing is left
 to guess.
 
-💡 **later.** For ADHD brains that spark unrelated ideas mid-task. Park the
+💡 **[later](later/SKILL.md):** For ADHD brains that spark unrelated ideas mid-task. Park the
 idea, stay on track, and do it later.
 
 ## License
