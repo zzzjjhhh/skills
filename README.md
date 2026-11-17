@@ -1,14 +1,14 @@
 # skills
 
-Small [Claude Code](https://claude.com/claude-code) skills.
+Small Claude Code skills.
 
 | Skill | Use | What it does |
 |---|---|---|
 | [`echo`](echo/SKILL.md) | `/echo <request>` | Restates your request and a short approach, then lets you pick: execute, grill me first, make a plan, revise, or drop it. Nothing is changed until you choose. |
 | [`later`](later/SKILL.md) | `/later <idea>` | Parks an idea in `LATER.md` in the project folder without acting on it, then returns to the current task. Also lists (`/later`), starts (`/later start 01`) and deletes (`/later delete 01`) parked ideas. |
+| [`grill-me`](grill-me/SKILL.md) | `/grill-me` | Questions you about a plan, a few decisions per round, each with a recommended answer, until nothing is left assumed. |
 
-`echo` option 2 ("grill me first") calls a separate `grill-me` skill, which is
-not in this repo.
+`echo` option 2 ("grill me first") calls [`grill-me`](grill-me/SKILL.md).
 
 ## Motivations
 
@@ -22,4 +22,6 @@ idea, stay on track, and do it later.
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE). `grill-me` is adapted from Matt Pocock's
+[grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me)
+(MIT, see [grill-me/LICENSE](grill-me/LICENSE)).
