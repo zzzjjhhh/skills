@@ -13,7 +13,7 @@ not in this repo.
 ## Motivations
 
 🤝 **echo.** For anyone who knows what they want but not how to say it, and
-isn't sure the AI got it. Claude says back what it understood, so you're on
+isn't sure the AI got it. The AI says back what it understood, so you're on
 the same page. (Inspired by *Nonviolent Communication* by Marshall B.
 Rosenberg)
 
