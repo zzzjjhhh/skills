@@ -14,7 +14,7 @@ not in this repo.
 
 🤝 **echo.** For anyone who knows what they want but not how to say it, and
 isn't sure the AI got it. Claude says back what it understood, so you're on
-the same page. (Inspiration: *Nonviolent Communication* by Marshall B.
+the same page. (Inspired by *Nonviolent Communication* by Marshall B.
 Rosenberg)
 
 💡 **later.** For ADHD brains that spark unrelated ideas mid-task. Park the
