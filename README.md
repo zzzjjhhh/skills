@@ -10,6 +10,15 @@ Small [Claude Code](https://claude.com/claude-code) skills.
 `echo` option 2 ("grill me first") calls a separate `grill-me` skill, which is
 not in this repo.
 
+## Motivations
+
+🤝 **echo.** For anyone who knows what they want but not how to say it, and
+isn't sure the AI got it. Claude says back what it understood, so you're on
+the same page. (Inspiration: Nonviolent Communication)
+
+💡 **later.** For ADHD brains that spark unrelated ideas mid-task. Park the
+idea, stay on track, and do it later.
+
 ## Install
 
 Copy the skill folders into your personal skills folder:
