@@ -1,5 +1,7 @@
 # skills
 
+English | [简体中文](README.zh-CN.md)
+
 Small Claude Code skills.
 
 | Skill | Use | What it does |
