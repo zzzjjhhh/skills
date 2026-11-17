@@ -20,6 +20,9 @@ Rosenberg)
 💡 **later.** For ADHD brains that spark unrelated ideas mid-task. Park the
 idea, stay on track, and do it later.
 
+❓ **grill-me.** For when you're not sure you've thought it through. Answer a
+few questions at a time until nothing is left to guess.
+
 ## License
 
 [MIT](LICENSE). `grill-me` is adapted from Matt Pocock's
