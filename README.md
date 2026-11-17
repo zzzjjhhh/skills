@@ -20,19 +20,6 @@ Rosenberg)
 💡 **later.** For ADHD brains that spark unrelated ideas mid-task. Park the
 idea, stay on track, and do it later.
 
-## Install
-
-Copy the skill folders into your personal skills folder:
-
-```bash
-git clone https://github.com/zzzjjhhh/skills.git
-mkdir -p ~/.claude/skills
-cp -r skills/echo skills/later ~/.claude/skills/
-```
-
-Start a new Claude Code session; the skills then appear as `/echo` and
-`/later`.
-
 ## License
 
 [MIT](LICENSE)
