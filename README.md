@@ -24,7 +24,7 @@ it through, or is too lazy to spell it out. Answer a few questions at a time
 until nothing is left to guess.
 
 💡 **[later](later/SKILL.md):** For ADHD brains that spark unrelated ideas mid-task. Park the
-idea, stay on track, and do it later.
+idea, stay on track, and do it later. No ADHD diagnosis needed.
 
 ## License
 
