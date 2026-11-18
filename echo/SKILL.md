@@ -19,7 +19,9 @@ loaded alongside it. Fold in any clarifying answers.
 
 ## 3. Ask
 
-End the reply with this numbered list, then stop:
+End the reply with this bold heading and numbered list, then stop:
+
+**Your call:**
 
 1. Accept, execute directly
 2. Accept, grill me first
