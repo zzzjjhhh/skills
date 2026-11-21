@@ -27,10 +27,10 @@ until nothing is left to guess.
 💡 **[later](later/SKILL.md):** For ADHD brains that spark unrelated ideas mid-task. Park the
 idea, stay on track, and do it later. (No ADHD diagnosis needed.)
 
-📄 **[paper-xray](paper-xray/SKILL.md):** For anyone tired of flipping between a figure, its
-caption, its method and the text that explains it, and of digging for the
-knowledge gap and future directions. Each figure gets one card with all four;
-the gap and next steps are laid out up front.
+📄 **[paper-xray](paper-xray/SKILL.md):** For anyone who likes reading papers but not jumping
+between a figure, its caption, its method and the text that explains it. Each
+figure gets one card with all four; the knowledge gap and future directions
+are pulled out too.
 
 ## License
 
