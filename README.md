@@ -9,6 +9,7 @@ Small Claude Code skills.
 | [`echo`](echo/SKILL.md) | `/echo <request>` | Restates your request and a short approach, then lets you pick: execute, grill me first, make a plan, revise, or drop it. Nothing is changed until you choose. |
 | [`grill-me`](grill-me/SKILL.md) | `/grill-me` | Questions you about a plan, a few decisions per round, each with a recommended answer, until nothing is left assumed. |
 | [`later`](later/SKILL.md) | `/later <idea>` | Parks an idea in `LATER.md` in the project folder without acting on it, then returns to the current task. Also lists (`/later`), starts (`/later start 01`) and deletes (`/later delete 01`) parked ideas. |
+| [`paper-xray`](paper-xray/SKILL.md) | `/paper-xray <DOI, title or PDF>` | Turns a scientific paper into one self-contained HTML walkthrough: background and knowledge gap, results grouped by message with one figure card at a time (caption, method, main text), discussion paired with future directions. Every claim links to a short find-anchor and line numbers in the PDF. |
 
 `echo` option 2 ("grill me first") calls [`grill-me`](grill-me/SKILL.md).
 
@@ -25,6 +26,11 @@ until nothing is left to guess.
 
 💡 **[later](later/SKILL.md):** For ADHD brains that spark unrelated ideas mid-task. Park the
 idea, stay on track, and do it later. (No ADHD diagnosis needed.)
+
+📄 **[paper-xray](paper-xray/SKILL.md):** For anyone tired of flipping between a figure, its
+caption, its method and the text that explains it, and of digging for the
+knowledge gap and future directions. Each figure gets one card with all four;
+the gap and next steps are laid out up front.
 
 ## License
 
